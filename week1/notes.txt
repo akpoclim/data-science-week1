@@ -1,1 +1,2 @@
 Git is a version control system that tracks changes to files.
+Git can detect issues in a code.
